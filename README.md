@@ -1,2 +1,2 @@
 # selegic-cpq-force
-Selegic CPQ for Salesforce.com 
+Selegic CPQ for Salesforce.com platform
